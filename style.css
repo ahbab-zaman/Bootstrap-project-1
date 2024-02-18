@@ -272,6 +272,7 @@ header{
 @media (max-width:600px) {
     #banner title{
         font-size: 40px;
+        padding: 0;
     }
     .au-box{
         right: 3rem;
