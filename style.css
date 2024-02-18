@@ -270,7 +270,7 @@ header{
     }
 }
 @media (max-width:600px) {
-    #banner title{
+    #banner > title{
         font-size: 40px;
         padding: 0;
     }
