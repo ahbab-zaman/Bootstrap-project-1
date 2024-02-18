@@ -269,3 +269,15 @@ header{
         display: none;
     }
 }
+@media (max-width:600px) {
+    #banner title{
+        font-size: 40px;
+    }
+    .au-box{
+        right: 3rem;
+    }
+    .au-box span{
+        padding: 0px;
+    }
+    
+}
